@@ -19,4 +19,3 @@ def func(x):
 
 x = bisections(func, (-1, 3))
 print('Полученный х = ', x, '\n', 'Значение функции в найденой точке: ', func(x), '\n')
-print(x)
